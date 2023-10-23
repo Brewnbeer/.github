@@ -1,12 +1,10 @@
-## Hello, We're Brewnbeer!
+## Hello, We're Brewnbeer! 💙
 
-<!--
 
-**Here are some ideas to get you started:**
+![Brewnbeer-color](https://github.com/Brewnbeer/.github/assets/41361167/a54ca9f7-efb1-4717-bb12-ca486a138233)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br />
+
+<p>
+A Full Life Cycle Agency. We build websites, and mobile apps, and design pitch-perfect decks to help startups.
+</p>
