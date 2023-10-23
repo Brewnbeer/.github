@@ -1,4 +1,4 @@
-# Welcome to Brewnbeer! 💙 ✨
+# Hello, we're Brewnbeer! 💙 ✨
 
 ![Brewnbeer-color](https://github.com/Brewnbeer/.github/assets/41361167/e8406320-9572-4327-9413-1fbcc66396d5)
 
